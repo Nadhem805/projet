@@ -1,0 +1,111 @@
+	.logo-docplanner{
+			    width: 268px;
+    			height: 33px;
+		}
+		#header{
+			display:flex;
+			justify-content: space-around;
+			padding: 0px 400px;
+			flex-wrap: nowrap;
+			color: #00b39b;
+			position: sticky;
+			top: 0px;
+			background-color: white;
+		}
+		.lead__logo{
+			position: absolute;
+			right: 700px;
+		}
+		#logo{
+			text-align: center;
+			color: #00b39b;
+		}
+		.fontfamily{
+				font-family: Work Sans,Arial,sans-serif;
+				font-weight: 10px;
+				letter-spacing: 3px;
+		}
+		#paraghraphs{
+		    display: flex;
+		    justify-content: space-over;
+			margin-block-start: 1px;
+    		margin-block-end: 1px;
+    		margin-inline-start: 0px;
+    		margin-inline-end: 0px;
+    		margin: 0.8em 0;
+    		line-height: 1.75;
+    		font-weight: 400;
+    		padding: 0px 300px;
+    		margin-right:2% ;
+			}
+			.box1{
+				background-color: #00ccb1;
+				width: 30%;
+				    height: 345px;
+				font-weight: 400;
+    			font-family: Roboto,Arial,sans-serif;
+    			border-radius: 10px;
+    			padding: 2px 2px 0px;
+    			font-weight: 400 px;
+    			color: white;
+			}
+			.box2{
+				background-color: #3d83df;
+				width:30%;
+				    height: 345px;
+				font-weight: 400;
+    			font-family: Roboto,Arial,sans-serif;
+    			border-radius: 10px;
+    			padding: 2px 2px 0px;
+    			color: white;
+    			font-weight: 400;
+			}
+			.box3{
+				background-color: #1b2734;
+				width: 30%;
+				    height: 345px;
+				font-weight: 400;
+    			font-family: Roboto,Arial,sans-serif;
+    			border-radius: 10px;
+    			padding: 2px 2px 0px;
+    			font-weight: 400 px;
+    			color: white;
+			}
+			#box{
+				display: flex;
+				justify-content: space-around;
+				padding: 0px 300px;
+			}
+			.greencolor{
+				text-align: center;
+				padding: 0px 500px;
+				color: #00ccb1;
+			}
+			.padding{
+				text-align: center;
+				padding: 0px 500px;
+			}
+			.imagebox1{
+				display: flex;
+				padding: 0px 300px;
+				justify-content: space-evenly;
+
+			}
+				.imagebox2{
+				display: flex;
+				padding: 0px 300px;
+				justify-content: space-evenly;
+
+			}
+			.imagebox3{
+				display: flex;
+				padding: 0px 300px;
+				justify-content: space-evenly;
+			}
+			#footer{
+				padding: 0px 200px;
+				margin-bottom: 0.4em;
+				text-align: center;
+				font-size: 12px;
+				color: #ababab;
+			}
